@@ -1,0 +1,119 @@
+title: Technologies & Concepts
+description: Voici une liste des technologies que j’utilise actuellement ou que j’ai utilisées par le passé, ainsi que quelques concepts clés étudiés durant ma formation à l’ENSEEIHT.
+links:
+  - label: Voir mon profil LinkedIn
+    url: "https://www.linkedin.com/in/jules-aubry/"
+    size: md
+categories:
+  - title: Langages de Programmation
+    items:
+      - name: Python
+        level: 4
+        color: "#3776AB"
+        icon: "/icon/language/python.png"
+      - name: JavaScript
+        level: 4
+        color: "#F7DF1E"
+        icon: "/icon/language/javascript.png"
+      - name: TypeScript
+        level: 3
+        color: "#3178C6"
+        icon: "/icon/language/typescript.png"
+      - name: Java
+        level: 3
+        color: "#007396"
+        icon: "/icon/language/java.png"
+      - name: C
+        level: 3
+        color: "#A8B9CC"
+        icon: "/icon/language/c.png"
+      - name: C#
+        level: 2
+        color: "#68217A"
+        icon: "/icon/language/csharp.png"
+      - name: SQL
+        level: 3
+        color: "#4479A1"
+        icon: "/icon/language/sql.png"
+      - name: HTML5
+        level: 4
+        color: "#E34F26"
+        icon: "/icon/language/html.png"
+      - name: CSS3
+        level: 4
+        color: "#1572B6"
+        icon: "/icon/language/css.png"
+      - name: LaTeX
+        level: 3
+        color: "#008080"
+        icon: "/icon/language/latex.png"
+      - name: Markdown
+        level: 4
+        color: "#000000"
+        icon: "/icon/language/markdown.png"
+      - name: Matlab
+        level: 2
+        color: "#E16737"
+        icon: "/icon/language/matlab.png"
+      - name: Ada
+        level: 2
+        color: "#4B89DC"
+        icon: "/icon/language/ada.png"
+
+  - title: Frameworks & Bibliothèques
+    items:
+      - name: Node.js
+        level: 3
+        color: "#339933"
+        icon: "/icon/framework/nodejs.png"
+      - name: Vue.js
+        level: 3
+        color: "#4FC08D"
+        icon: "/icon/framework/vue.png"
+      - name: Nuxt
+        level: 3
+        color: "#00DC82"
+        icon: "/icon/framework/nuxt.png"
+      - name: Tailwind CSS
+        level: 4
+        color: "#38B2AC"
+        icon: "/icon/framework/tailwind.png"
+
+  - title: Outils & Plateformes
+    items:
+      - name: GitHub
+        level: 4
+        color: "#181717"
+        icon: "logos:github-icon"
+      - name: Visual Studio Code
+        level: 4
+        color: "#007ACC"
+        icon: "logos:visual-studio-code"
+      - name: Eclipse
+        level: 3
+        color: "#2C2255"
+        icon: "logos:eclipse-icon"
+      - name: Docker
+        level: 3
+        color: "#2496ED"
+        icon: "logos:docker-icon"
+      - name: Kubernetes
+        level: 2
+        color: "#326CE5"
+        icon: "logos:kubernetes-icon"
+      - name: Linux
+        level: 4
+        color: "#FCC624"
+        icon: "logos:linux-tux"
+      - name: Ubuntu
+        level: 3
+        color: "#E95420"
+        icon: "logos:ubuntu"
+      - name: macOS
+        level: 3
+        color: "#000000"
+        icon: "logos:apple"
+      - name: Unity
+        level: 2
+        color: "#000000"
+        icon: "logos:unity"
