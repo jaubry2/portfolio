@@ -34,6 +34,7 @@ const createTestimonialSchema = () => z.object({
   author: createAuthorSchema()
 })
 
+
 export default defineContentConfig({
   collections: {
     index: defineCollection({
@@ -103,6 +104,27 @@ export default defineContentConfig({
       ],
       schema: z.object({
         links: z.array(createButtonSchema())
+      })
+    }),
+    technologies: defineCollection({
+      type: 'page',
+      source: 'technologies.yml',
+      schema: z.object({
+        title: z.string(),
+        description: z.string(),
+        links: z.array(createButtonSchema()),
+        categories: z.array(
+            z.object({
+              title: z.string().nonempty(),
+              items: z.array(
+                z.object({
+                  name: z.string().nonempty(),
+                  level: z.enum(['1', '2', '3', '4']),
+                  color: z.string().nonempty(),
+                  icon: z.string().optional(),
+                })
+              )
+            }))
       })
     }),
     speaking: defineCollection({
