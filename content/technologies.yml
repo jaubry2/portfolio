@@ -1,5 +1,5 @@
-title: Technologies & Concepts
-description: Voici une liste des technologies que j’utilise actuellement ou que j’ai utilisées par le passé, ainsi que quelques concepts clés étudiés durant ma formation à l’ENSEEIHT.
+title: Outils & Technologies
+description: Voici une liste des technologies et des outils que j’utilise actuellement ou que j’ai utilisées par le passé, ainsi que quelques concepts clés étudiés durant ma formation à l’ENSEEIHT.
 links:
   - label: Voir mon profil LinkedIn
     url: "https://www.linkedin.com/in/jules-aubry/"
@@ -10,74 +10,74 @@ categories:
       - name: Python
         level: 4
         color: "#3776AB"
-        icon: "/icon/language/python.png"
+        icon: "logos:python"
       - name: JavaScript
         level: 4
         color: "#F7DF1E"
-        icon: "/icon/language/javascript.png"
+        icon: "logos:javascript"
       - name: TypeScript
         level: 3
         color: "#3178C6"
-        icon: "/icon/language/typescript.png"
+        icon: "logos:typescript-icon"
       - name: Java
         level: 3
         color: "#007396"
-        icon: "/icon/language/java.png"
+        icon: "logos:java"
       - name: C
         level: 3
         color: "#A8B9CC"
-        icon: "/icon/language/c.png"
+        icon: "logos:c"
       - name: C#
         level: 2
         color: "#68217A"
-        icon: "/icon/language/csharp.png"
+        icon: "devicon:csharp"
       - name: SQL
         level: 3
         color: "#4479A1"
-        icon: "/icon/language/sql.png"
+        icon: "logos:mysql"
       - name: HTML5
         level: 4
         color: "#E34F26"
-        icon: "/icon/language/html.png"
+        icon: "logos:html-5"
       - name: CSS3
         level: 4
         color: "#1572B6"
-        icon: "/icon/language/css.png"
+        icon: "logos:css-3"
       - name: LaTeX
         level: 3
         color: "#008080"
-        icon: "/icon/language/latex.png"
+        icon: "devicon:latex"
       - name: Markdown
         level: 4
         color: "#000000"
-        icon: "/icon/language/markdown.png"
+        icon: "devicon:markdown"
       - name: Matlab
         level: 2
         color: "#E16737"
-        icon: "/icon/language/matlab.png"
+        icon: "devicon:matlab"
       - name: Ada
         level: 2
         color: "#4B89DC"
-        icon: "/icon/language/ada.png"
+        icon: "file-icons:ada"
 
   - title: Frameworks & Bibliothèques
     items:
       - name: Node.js
         level: 3
         color: "#339933"
-        icon: "/icon/framework/nodejs.png"
+        icon: "logos:nodejs"
       - name: Vue.js
         level: 3
         color: "#4FC08D"
-        icon: "/icon/framework/vue.png"
+        icon: "devicon:vuejs"
       - name: Nuxt
         level: 3
         color: "#00DC82"
-        icon: "/icon/framework/nuxt.png"
+        icon: "devicon:nuxt"
       - name: Tailwind CSS
         level: 4
         color: "#38B2AC"
-        icon: "/icon/framework/tailwind.png"
+        icon: "devicon:tailwindcss"
 
   - title: Outils & Plateformes
     items:
@@ -100,7 +100,7 @@ categories:
       - name: Kubernetes
         level: 2
         color: "#326CE5"
-        icon: "logos:kubernetes-icon"
+        icon: "logos:kubernetes"
       - name: Linux
         level: 4
         color: "#FCC624"
@@ -117,3 +117,23 @@ categories:
         level: 2
         color: "#000000"
         icon: "logos:unity"
+      - name: Wireshark
+        level: 2
+        color: "#000000"
+        icon: "simple-icons:wireshark"
+      - name: Hadoop
+        level: 2
+        color: "#000000"
+        icon: "devicon:hadoop"
+      - name: Spark
+        level: 2
+        color: "#000000"
+        icon: "logos:apache-spark"
+      - name: Xen
+        level: 2
+        color: "#000000"
+        icon: ""
+      - name: AWS
+        level: 2
+        color: "#000000"
+        icon: "logos:aws"
